@@ -131,7 +131,7 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    background-image: url("https://uploads-ssl.webflow.com/5ca8a34e025cb05e131ae5a9/5ca8ad08025cb022ea1aff6d_Background.png");
+    overflow: hidden;
     background-position: 50% 0%;
     background-size: cover;
     background-attachment: fixed;
